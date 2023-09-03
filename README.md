@@ -1,4 +1,4 @@
-# Shimoku Api Python
+# Api Python
 
 ![License](https://img.shields.io/github/license/shimoku-tech/shimoku-api-python)
 [![PyPI version](https://badge.fury.io/py/shimoku-api-python.svg)](https://badge.fury.io/py/shimoku-api-python)
