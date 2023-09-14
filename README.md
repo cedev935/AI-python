@@ -30,8 +30,6 @@ Is transformed into:
 
 ![Hence, an entire IT full-stack team is replaced by Shimoku.](https://1111601832-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FUlHTfmIZY46Z1EDfyGMz%2Fuploads%2F0SertLANqgV3ZoOlq1VA%2Fschema-shimoku-breakout.png?alt=media&token=360d0c11-ebee-4e0d-9a7f-32c2a68f5928)
 
-## Quickstart
-
 ### Step 1 - Create an account
 
 | 1 | 2 |
